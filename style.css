@@ -1,15 +1,16 @@
 body {
   position: relative;
   margin: 0;
-  min-width: 1408px;
+  min-width: 1000px;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
   color: #222222;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("files/pixie.jpg");
   background-repeat: no-repeat;
   background-position-y: top;
   background-position-x: calc(50vw + 16px);
+  background-size: 50%;
 }
 
 .container {
